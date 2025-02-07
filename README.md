@@ -110,8 +110,7 @@ This will open the application in your web browser.
 ---
 
 ## 💎 **Contact**
-- **GitHub:** https://github.com/SidduKumar-1292
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **GitHub:** https://github.com/SidduKumar-1292 
 - **Email:** siddukumar1292@gmail.com  
 
 🚀 **Empowering Business Insights Through Data!** 📊
